@@ -4,8 +4,8 @@
 // @version      1
 // @description  Sets Leetcode Editor Font as Cascadia Code
 // @author       Siddharth VS
-// @updateURL    https://raw.githubusercontent.com/YukiDayDreamer/LeetCode-Timer/master/LeetCode-Timer.meta.js
-// @downloadURL  https://raw.githubusercontent.com/YukiDayDreamer/LeetCode-Timer/master/LeetCode-Timer.user.js
+// @updateURL    https://raw.githubusercontent.com/sidvud98/Leetcode-Font-Switcher/main/LeetcodeFontSwitcher.meta.js
+// @downloadURL  https://raw.githubusercontent.com/sidvud98/Leetcode-Font-Switcher/main/LeetcodeFontSwitcher.user.js
 // @match        https://leetcode.com/problems/*
 // @grant        none
 // ==/UserScript==
